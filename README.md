@@ -33,6 +33,8 @@ Pinjam Satoe adalah platform digital yang memudahkan orang buat **minjem barang 
 - Laravel
 - Tailwind CSS
 - HTML + CSS
+- JavaScript
+
 
 ### **Backend**
 - PHP (Laravel REST API)
